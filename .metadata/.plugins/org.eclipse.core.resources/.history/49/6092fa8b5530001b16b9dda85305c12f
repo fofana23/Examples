@@ -1,0 +1,6 @@
+package com.app.demo.repository;
+
+@Repository
+public interface UserRepository extends JpaRepository<User, Integer> {
+
+}
