@@ -4,4 +4,20 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\sufya\Documents\Alhaji\Examples\Backend"/>
+			<item value="C:\Users\sufya\Documents\Alhaji\Examples\javabasics"/>
+			<item value="C:\Users\sufya\Documents\Alhaji\Examples\Database"/>
+			<item value="C:\Users\sufya\Documents\Alhaji\Examples\DataStructure"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>
